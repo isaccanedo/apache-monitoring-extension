@@ -1,0 +1,15 @@
+*.class
+*.iml
+.classpath
+.project
+.idea
+dist
+target
+
+# Package Files #
+*.war
+*.ear
+/bin
+
+# OS generated files #
+.DS_Store*
